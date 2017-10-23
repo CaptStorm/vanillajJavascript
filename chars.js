@@ -33,3 +33,5 @@ console.log(splitQuote);
 for (var i = 0; i<splitQuote.length; i++){
   console.log(splitQuote[i] + "");
 };
+var substringQuote = quote.substr(9,28);
+console.log(substringQuote);
