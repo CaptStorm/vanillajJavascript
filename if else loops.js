@@ -7,3 +7,16 @@ if (x < 23) {
 
 
 true .. because x is less than 23 since it is x = 5
+
+
+
+
+var x = 1;
+if (x < 5 && x < 20) {
+  alert ('True')
+}
+else {
+  alert('False')
+}
+
+
